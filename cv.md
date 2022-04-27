@@ -8,7 +8,7 @@
 - **LinkedIn:** [hakimbek-erkinboev](https://www.linkedin.com/in/hakimbek-erkinboev-343a75226/ 'https://www.linkedin.com/in/hakimbek-erkinboev-343a75226/')
 - **Telegram:** [@hakimbek](https://t.me/hakimbek 'https://t.me/hakimbek')
 
-## **About Myself**
+## **Brief Summary**
 
 Despite studying a business major at a university (final year), I'm more passionate about web development. I started learning the basics of front-end development in 2021 and have already build several small-sized projects using HTML, CSS, and JavaScript. I believe I can learn how to use the latest technologies in the industry and become a professional web developer
 
